@@ -18,7 +18,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 	    		      //  "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 	    		        "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
 	    		    }
-	    				)   
+	    				)
 
 
 public class TestRunner // extends AbstractTestNGCucumberTests 
