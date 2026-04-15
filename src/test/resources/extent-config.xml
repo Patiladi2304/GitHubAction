@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>light</theme>
+        <documentTitle>Cucumber Report</documentTitle>
+        <reportName>Automation Execution Report CAYA Project </reportName>
+        <encoding>UTF-8</encoding>
+    </configuration>
+</extentreports>
